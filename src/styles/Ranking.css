@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+/* .ranking{
+    margin: 1rem 1rem;
+    display: flex;
+    justify-content: space-around;
+} */
+.ranking-img{
+    height: 24px;
+    width: 24px;
+    border-radius: 50%;
+    margin-right: 5px;
+    vertical-align: middle;
+}

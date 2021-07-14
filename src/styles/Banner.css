@@ -1,0 +1,7 @@
+.banner{
+    padding: 2.5rem 2rem;
+}
+.banner-img{
+    max-width: 100%;
+    cursor: pointer;
+}

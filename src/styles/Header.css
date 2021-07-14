@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+.header{
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
+.header-logo{
+    display: flex;
+    flex-direction: column;
+}
+.header-logo-img{
+    width: 280px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.header-logo-tagline{
+    font-size: 18px;
+    align-self: flex-start;
+    padding-top: 0;
+    margin: 0;
+    font-family: Oswald, sans-serif;
+    color: #888989;
+}
+.header-buttons{
+    margin: 0.5rem auto;
+    
+}
+.header-group{
+    margin: 1rem 1rem;
+    display: flex;
+}
+.header-buttons-btn{
+    text-transform: uppercase;
+    cursor: pointer;
+    outline: none;
+    color: #0c0f48;
+    background-color: #f8f9fa;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    font-family: Oswald,sans-serif;
+    font-weight: 500;
+    margin: 10px;
+    padding: 5px 15px;
+    border-radius: 10px;
+}
+ .header-timer{
+    font-family: Oswald, sans-serif;
+    color: #3dc6c1;
+    font-weight: 500;
+ }
+ .header-telegram{
+    height: 30px;
+    font-family: Oswald, sans-serif;
+    font-weight: 500;
+    font-size: 17px;
+    margin-left: 20px;
+    margin-right: 20px;
+    cursor: pointer;
+    padding: 4px 24px;
+    border-radius: 10px;
+    border: none;
+    background-color: #3dc6c1;
+    color: #fff;
+ }

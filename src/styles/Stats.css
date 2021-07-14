@@ -1,0 +1,44 @@
+.stats{
+    display: flex;
+    justify-content: center;
+    margin: 0.8rem 1.5rem;
+}
+.stats-middle{
+    margin: 0.5rem auto;
+}
+.stats-middle-price{
+    font-size: 80px;
+    margin: 0;
+    color: #0c0f48;
+    font-weight: 500;
+}
+.stats-middle-head{
+    margin: 0;
+    font-weight: 500;
+    font-size: 30px;
+    color: #0c0f48;
+    opacity: 0.45;
+    
+}
+.stats-middle-tag{
+    color: #0c0f48;
+    opacity: 0.45;
+    font-size: 17px;
+    margin-top: 0;
+}
+
+.percentage{
+    margin:3rem 5rem;
+}
+.percentage-head{
+    font-weight: 500;
+    font-size: 40px;
+    color: #5dc7c2;
+    margin-bottom: 0;
+}
+.percentage-para{
+    color: #0c0f48;
+    opacity: 0.45;
+    font-size: 20px;
+    margin: 0;
+}
